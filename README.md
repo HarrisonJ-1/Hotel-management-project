@@ -39,3 +39,30 @@ Record keeping guest records, guests and allocated rooms, vacancy of rooms, room
 Database CSV document for customer / guests’ details 
 
 Test table to show that the system works. 
+
+
+Client Requirement 
+
+Requirement ID 	Description 	Mandatory [M] or desirable [D] 
+1	Main menu system	M
+2	Details the type of room and service booked	M
+3	Hotel room details type of room, number of people, number of beds and what's included in the room.	M
+4	Bookings	M
+5	Billing and payments	M
+6	Record keeping guest records	M
+7	Database CSV document for customer / guests’ details  	D
+8	Test table to show that the system works.  	D
+9	Login system	M
+ 
+Task Table 
+
+Requirement ID 	Description 
+9	Create login details
+9	Store login details
+9	Create user access
+4	Creating bookings
+3	Check which rooms are available
+6	Record guest booking
+2	Hotel room details
+ 
+
